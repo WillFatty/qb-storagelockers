@@ -9,7 +9,7 @@
 
 * [nh-context](https://github.com/dojwun/nh-context)
 
-* [qb-keyboard](https://gitlab.com/WilliamTheFatMan/qb-keyboard)
+* [qb-keyboard](https://github.com/WillFatty/qb-keyboard)
 
 - qb-eye preview
 
