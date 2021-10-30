@@ -7,7 +7,7 @@
 
 * [qb-target](https://github.com/loljoshie/qb-target)
 
-* [nh-context](https://github.com/dojwun/nh-context)
+* [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
 * [qb-keyboard](https://github.com/WillFatty/qb-keyboard)
 

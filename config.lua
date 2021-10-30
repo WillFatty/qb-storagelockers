@@ -16,3 +16,7 @@ Config.SL_234656 = '0000' -- Stash10
 -- LS Lockers
 
 Config.SL_54367 = '0000' -- Stash2
+Config.SL_567346 = '0000' -- Stash11
+Config.SL_523567 = '0000' -- Stash12
+Config.SL_532672 = '0000' -- Stash13
+Config.SL_213564 = '0000' -- Stash14

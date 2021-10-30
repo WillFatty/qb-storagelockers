@@ -177,3 +177,75 @@ exports['qb-target']:AddBoxZone("Stash10", vector3(-2202.68, 4244.12, 47.62), 1,
         job = {"all"},
         distance = 5
     })
+
+exports['qb-target']:AddBoxZone("Stash11", vector3(-55.92, -1210.05, 28.57), 5.4, 1, {
+  name="Stash11",
+  heading=43,
+  debugPoly=true,
+  minZ=27.37,
+  maxZ=31.37
+    }, {
+        options = {
+            {
+                event = "qb-stopragelockers:StashAvailability11",
+                icon = "fas fa-briefcase",
+                label = "Open Locker",
+            },
+        },
+        job = {"all"},
+        distance = 5
+    })
+
+exports['qb-target']:AddBoxZone("Stash12", vector3(-52.46, -1216.42, 28.7), 4.2, 1.0, {
+  name="Stash12",
+  heading=0,
+  debugPoly=true,
+  minZ=27.7,
+  maxZ=31.7
+    }, {
+        options = {
+            {
+                event = "qb-stopragelockers:StashAvailability12",
+                icon = "fas fa-briefcase",
+                label = "Open Locker",
+            },
+        },
+        job = {"all"},
+        distance = 5
+    })
+
+exports['qb-target']:AddBoxZone("Stash13", vector3(-66.88, -1198.98, 27.98), 5.2, 1, {
+  name="Stash13",
+  heading=45,
+  debugPoly=true,
+  minZ=26.68,
+  maxZ=30.68
+    }, {
+        options = {
+            {
+                event = "qb-stopragelockers:StashAvailability13",
+                icon = "fas fa-briefcase",
+                label = "Open Locker",
+            },
+        },
+        job = {"all"},
+        distance = 5
+    })
+
+exports['qb-target']:AddBoxZone("Stash14", vector3(-73.23, -1196.55, 27.67), 5.2, 1, {
+  name="Stash14",
+  heading=90,
+  debugPoly=true,
+  minZ=26.67,
+  maxZ=30.67
+    }, {
+        options = {
+            {
+                event = "qb-stopragelockers:StashAvailability14",
+                icon = "fas fa-briefcase",
+                label = "Open Locker",
+            },
+        },
+        job = {"all"},
+        distance = 5
+    })
