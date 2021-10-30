@@ -15,7 +15,7 @@
 
 ![eye](https://i.imgur.com/8MlpCnP.png)
 
-- nh-context preview: 
+- qb-menu preview: 
 
 ![General](https://i.imgur.com/mzYznM4.png)
 
